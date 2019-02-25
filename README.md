@@ -1,7 +1,7 @@
-Domestic-Workers
+Coffee-Workers
 ================
-This project is meant to create a system which takes inputs from users on how much they pay or think they should pay a domestic worker
-and tells them more about what that amount means to the lives of a domestic worker's household.
+This project is meant to create a system which takes inputs from users on how much they pay or think they should pay a barista
+and tells them more about what that amount means to the lives of a barista's household.
 The user upon learning about the meaning of the payment can then adjust the amount they suggested and should be able to, in real time,
 see what that implies.
 
